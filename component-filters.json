@@ -6,6 +6,14 @@
     ]
   },
   {
+    "id": "section2",
+    "components": [
+      "accordion",
+      "cards",
+      "carousel",
+      "columns"    ]
+  },
+  {
     "id": "section",
     "components": [
       "accordion",
