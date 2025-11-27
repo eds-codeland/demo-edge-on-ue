@@ -40,6 +40,17 @@
           },
           "filter": "section",
           "model": "section"
+        },
+        {
+          "title": "Sectio-2",
+          "id": "section2",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div></div>"
+            }
+          },
+          "filter": "section2",
+          "model": "section2"
         }
       ]
     },
